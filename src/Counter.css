@@ -1,0 +1,27 @@
+.countdesign{
+    margin-top: 20%;
+    color: blue;
+    font-size: 30px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.fenil{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.btn1{
+    font-size: 20px;
+}
+.btn2{
+    font-size: 20px;
+}
+.btn3{
+    font-size: 20px;
+}
+.btn4{
+    font-size: 20px;
+}

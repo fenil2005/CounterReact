@@ -1,0 +1,21 @@
+import { useState } from 'react'
+import './App.css'
+import './Counter.css'
+import { Counterapp } from './Counter'
+import { SwitchApp } from './Switch'
+
+function App() {
+  const [count, setCount] = useState(0)
+
+  return (
+    <>
+      <h1>Hello</h1>
+      <h2>test</h2>
+      <Counterapp />
+
+      <SwitchApp />
+    </>
+  )
+}
+
+export default App
