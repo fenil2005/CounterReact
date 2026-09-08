@@ -9,10 +9,7 @@ function App() {
 
   return (
     <>
-      <h1>Hello</h1>
-      <h2>test</h2>
       <Counterapp />
-
       <SwitchApp />
     </>
   )
